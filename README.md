@@ -34,9 +34,9 @@ You can use these credentials to log in and test the app:
 ### 🔐 Authentication (Login / Register)
 | Login Page |
 |:-------------:|
-|<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/d555e06e-871e-4b2c-97b2-91bd24532e82" />|
+|<img width="1600" height="763" alt="image" src="https://github.com/raushan1912/mern-task-manager/blob/main/login.png" />|
 |**Register Page**|
-|<img width="1600" height="763" alt="image" src="https://github.com/user-attachments/assets/ea5049f1-5785-4fb7-bbf2-583c78f5d579" />|
+|<img width="1600" height="763" alt="image" src="https://github.com/raushan1912/mern-task-manager/blob/main/sign.png" />|
 
 
 
@@ -45,11 +45,11 @@ You can use these credentials to log in and test the app:
 
 
 ### 👤 User Dashboard
-<img width="1500" height="1000" alt="user_dashboard" src="https://github.com/user-attachments/assets/bc499c4d-ff56-44d4-b840-94665e520ae4" />
+<img width="1500" height="1000" alt="user_dashboard" src="https://github.com/raushan1912/mern-task-manager/blob/main/Admin%20Dasbord.png" />
 
 
 ### 📋 Task Creation (Admin)
-<img width="1500" height="852" alt="Screenshot 2025-10-09 024115" src="https://github.com/user-attachments/assets/6a0cb1fd-c69a-48b7-ab7b-380c16c62fa0" />
+<img width="1500" height="852" alt="Screenshot 2025-10-09 024115" src="https://github.com/raushan1912/mern-task-manager/blob/main/Task%20creation.png" />
 
 
 ### 📊 Reports & Analytics
